@@ -6,16 +6,6 @@ body {
 	font-weight: bold;
 }
 
-.heading {
-	display: block;
-	width: 400px;
-	margin: 10px auto;
-	background-color: #fff;
-	border: solid 20px #fff;
-	border-radius: 30px;
-	font-size: 20px;
-}
-
 .map {
 	display: block;
 	width: 400px;
